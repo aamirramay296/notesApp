@@ -1,1 +1,12 @@
+Install Node 
+Install Visual Studio Code 
+Install Cmder 
+
 Update node : npm install -g npm-windows-upgrade
+
+To back two directory use :
+cd ../..
+
+
+How to run a js file using cmder:
+Just go to the directory and type : node name of the file
